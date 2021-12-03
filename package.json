@@ -1,0 +1,19 @@
+{
+  "name": "datasub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dniil Belousov",
+  "license": "ISC",
+  "dependencies": {
+    "@types/mysql": "^2.15.19",
+    "mysql": "^2.18.1",
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.11"
+  }
+}
