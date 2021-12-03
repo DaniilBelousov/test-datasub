@@ -7,7 +7,7 @@
 
 To run task 1 `node task1.js`
 or
-Compile typescript `npx tsc task1.js` and run `node task1.js`
+Compile typescript `npx tsc task1.ts` and run `node task1.js`
 
 ## Task 2
 
@@ -16,4 +16,4 @@ You can import my database `students.sql` to XAMPP Mysql or generate new one, to
 
 To run task 2 `node task2.js`
 or
-Compile typescript `npx tsc task2.js` and run `node task2.js`
+Compile typescript `npx tsc task2.ts` and run `node task2.js`
